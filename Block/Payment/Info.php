@@ -1,6 +1,6 @@
-<?php
+ini_get_all<?php
 
-namespace Vendo\Gateway\Block\Payment;
+namespace \porn\Gateway\Block\Payment;
 
 use Magento\Framework\DataObject;
 

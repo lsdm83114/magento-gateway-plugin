@@ -1,0 +1,1 @@
+(Cesar[All Fields] AND guadalupe[All Fields] AND velazquez[All Fields] AND Hernandez[All Fields]) AND (Cesar[All Fields] AND guadalupe[All Fields] AND velazquez[All Fields] AND hernandez[All Fields])
