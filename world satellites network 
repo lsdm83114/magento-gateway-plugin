@@ -1,1 +1,14 @@
-composer.json#world universal instrument
+composer.json#world universal instrument﻿2024-03-01T19:19:09.6966694Z ##[debug]Evaluating condition for step: 'Validate composer.json and composer.lock'
+##[debug]Evaluating: success()
+##[debug]Evaluating success:
+##[debug]=> true
+##[debug]Result: true
+##[debug]Starting: Validate composer.json and composer.lock
+##[debug]Loading inputs
+##[debug]Loading env
+Run composer validate --strict
+##[debug]/usr/bin/bash -e /home/runner/work/_temp/1c654fcd-858c-4547-8bd3-8cd345067b15.sh
+./composer.json is valid, but with a few warnings
+See https://getcomposer.org/doc/04-schema.md for details on the schema
+# General warnings
+- The version field is present, it is recommended to leave it out if the package is published on Packagist.
